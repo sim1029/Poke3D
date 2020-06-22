@@ -1,0 +1,14 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "Porygon-Card.arreferenceimage"
+    },
+    {
+      "filename" : "Yveltal-Card.arreferenceimage"
+    }
+  ]
+}
